@@ -127,7 +127,7 @@
     height: 70vh;
     border: 2px solid;
     border-radius: 30px;
-    background-image: url(staticFiles/m7.jpg);
+    background-image: url(m7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 1;
@@ -413,7 +413,7 @@ i{
     height: 65vh;
     border: 2px solid;
     border-radius: 30px;
-    background-image: url(staticFiles/m7.jpg);
+    background-image: url(m7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 1;
@@ -698,7 +698,7 @@ i{
     height: 70vh;
     /* border: 2px solid; */
     border-radius: 30px;
-    background-image: url(staticFiles/m6.jpg);
+    background-image: url(m6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 1;
@@ -1007,7 +1007,7 @@ i{
     height: 62vh;
     /* border: 2px solid; */
     border-radius: 30px;
-    background-image: url(staticFiles/m6.jpg);
+    background-image: url(m6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 1;
@@ -1318,7 +1318,7 @@ i{
     height: 65vh;
     /* border: 2px solid; */
     border-radius: 30px;
-    background-image: url(staticFiles/m6.jpg);
+    background-image: url(m6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 1;
